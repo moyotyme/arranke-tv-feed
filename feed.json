@@ -1,20 +1,20 @@
 {
-    "videos": [
-        {
-            "id": "vid_01",
-            "title": "Arranke TV Test 1",
-            "description": "This is your first test video stream hosted in the cloud.",
-            "stream_url": "https://amazonaws.com",
-            "stream_format": "dash",
-            "poster_url": "https://unsplash.com"
-        },
-        {
-            "id": "vid_02",
-            "title": "Arranke TV Test 2",
-            "description": "This is your second test video stream.",
-            "stream_url": "https://googleapis.com",
-            "stream_format": "mp4",
-            "poster_url": "https://unsplash.com"
-        }
-    ]
+  "videos": [
+    {
+      "id": "vid_01",
+      "title": "Arranke TV Test 1",
+      "description": "This is your first test video stream hosted in the cloud.",
+      "stream_url": "https://amazonaws.com",
+      "stream_format": "dash",
+      "poster_url": "https://unsplash.com"
+    },
+    {
+      "id": "vid_02",
+      "title": "Arranke TV Test 2",
+      "description": "This is your second test video stream.",
+      "stream_url": "https://googleapis.com",
+      "stream_format": "mp4",
+      "poster_url": "https://unsplash.com"
+    }
+  ]
 }
