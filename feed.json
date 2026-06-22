@@ -1,12 +1,12 @@
 {
   "videos": [
     {
-      "id": "vid_01",
-      "title": "Placas de Acero",
-      "description": "Peli Mexicana por Arranke TV",
-      "stream_url": "https://vz-4395322c-e17.b-cdn.net/3b5aa5e9-a178-4f24-b9fe-a1943e8c4224/playlist.m3u8",
+      "id": "vid_02",
+      "title": "Prueba de Concepto Podcast con VIP DJ",
+      "description": "Short Bunny Stream test video for Arranke TV.",
+      "stream_url": "https://vz-4395322c-e17.b-cdn.net/49c37c27-a66d-4cd1-b70b-accdd2296c32/playlist.m3u8",
       "stream_format": "hls",
-      "poster_url": "https://vz-4395322c-e17.b-cdn.net/3b5aa5e9-a178-4f24-b9fe-a1943e8c4224/thumbnail.jpg"
+      "poster_url": "https://vz-4395322c-e17.b-cdn.net/49c37c27-a66d-4cd1-b70b-accdd2296c32/thumbnail_c79755a9.jpg"
     }
   ]
 }
